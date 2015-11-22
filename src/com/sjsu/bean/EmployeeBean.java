@@ -1,9 +1,6 @@
 package com.sjsu.bean;
 
-/**
- * @author Dinesh Rajput
- *
- */
+ 
 public class EmployeeBean {
 	private Integer id;
 	private String name;
